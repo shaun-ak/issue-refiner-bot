@@ -1,4 +1,4 @@
-# GitHub Issue Assistant
+# GitHub Issue Refiner Bot
 
 A GitHub bot that helps explain and summarize issues using OpenAI.
 
